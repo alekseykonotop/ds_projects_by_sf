@@ -1,2 +1,16 @@
 .DS_Store
 sf_unit_6/.ipynb_checkpoints/
+sf_unit_3/.ipynb_checkpoints/
+sf_unit_6/new_ideas_to_improve_score_on_kaggle.txt
+
+# Unit 8 
+sf_unit_8/.ipynb_checkpoints/
+sf_unit_8/data/submissions/submission_score_0.97138.csv
+sf_unit_8/data/submissions/submission_TTA_score_0.92344.csv
+sf_unit_8/data/test.zip
+sf_unit_8/data/train.zip
+sf_unit_8/models/best_model_step_4_after_2_epochs_val_accuracy_0.9754.hdf5
+sf_unit_8/models/model_efn_b6_step_1.hdf5
+sf_unit_8/models/model_efn_b6_step_2.hdf5
+sf_unit_8/models/model_efn_b6_step_3.hdf5
+
